@@ -6,7 +6,7 @@ This program is a simple text editor app that can work both online and offline. 
 
 ## Installation
 
-N/A
+https://challenge19.herokuapp.com/
 
 ## Usage
 
@@ -14,7 +14,7 @@ This program can be used leave notes or test code. It can also be used to save c
 
 ## ScreenShot
 
-<!-- ![screemshot of program](./Screenshot%202023-01-01%20204239.png) -->
+![screemshot of program](./Screenshot%202023-03-06%20214305.png)
 
 
 ## Credits
